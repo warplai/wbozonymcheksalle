@@ -36,6 +36,6 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
-    - name: Run main script
-      run: |
-        python wbozonymcheksalle.py
+   # - name: Run main script
+   #   run: |
+   #     python wbozonymcheksalle.py
